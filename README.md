@@ -1,6 +1,6 @@
 # Streamlit Stock Price
 
-Built using the freedodecamp course "Build 12 Data Science Apps with Python and Streamlit"
+Built using the freedodecamp course: ["Build 12 Data Science Apps with Python and Streamlit"](https://www.freecodecamp.org/news/build-12-data-science-apps-with-python-and-streamlit/)
 
 ## Purpose
 
